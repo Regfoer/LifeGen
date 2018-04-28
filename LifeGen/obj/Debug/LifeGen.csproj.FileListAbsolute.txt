@@ -1,0 +1,10 @@
+C:\Users\artzh\Desktop\Development\LifeGen\LifeGen\bin\Debug\LifeGen.exe.config
+C:\Users\artzh\Desktop\Development\LifeGen\LifeGen\bin\Debug\LifeGen.exe
+C:\Users\artzh\Desktop\Development\LifeGen\LifeGen\bin\Debug\LifeGen.pdb
+C:\Users\artzh\Desktop\Development\LifeGen\LifeGen\obj\Debug\LifeGen.Form1.resources
+C:\Users\artzh\Desktop\Development\LifeGen\LifeGen\obj\Debug\LifeGen.Properties.Resources.resources
+C:\Users\artzh\Desktop\Development\LifeGen\LifeGen\obj\Debug\LifeGen.csproj.GenerateResource.Cache
+C:\Users\artzh\Desktop\Development\LifeGen\LifeGen\obj\Debug\LifeGen.csproj.CoreCompileInputs.cache
+C:\Users\artzh\Desktop\Development\LifeGen\LifeGen\obj\Debug\LifeGen.exe
+C:\Users\artzh\Desktop\Development\LifeGen\LifeGen\obj\Debug\LifeGen.pdb
+C:\Users\artzh\Desktop\Development\LifeGen\LifeGen\obj\Debug\LifeGen.csprojResolveAssemblyReference.cache
